@@ -45,9 +45,6 @@ git clone https://github.com/guilherme-augusto50/recupecao.git
    - Excluir: Selecione a tarefa e clique em "Excluir".
    - Filtrar: Escolha a data e clique em "Filtrar". Clique em "Limpar" para visualizar todas novamente.
 
-## 📄 Documentação Completa
-A documentação detalhada do sistema está disponível no arquivo [Documentação do Sistema.pdf](./Documentação%20do%20Sistema%20Gerenciamento%20de%20tarefas.pdf).
-
 ## ✍️ Autor
 Guilherme Augusto Alves Filomeno
 
